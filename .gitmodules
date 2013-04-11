@@ -1,0 +1,3 @@
+[submodule "test_project3"]
+	path = test_project3
+	url = git@github.com:fishstix/test_project3.git
